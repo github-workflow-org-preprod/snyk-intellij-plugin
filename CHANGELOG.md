@@ -1,5 +1,10 @@
 # Snyk Security Changelog
 
+## [2.8.9]
+
+### Changes
+- Allow oauth2 to be used for authentication
+
 ## [2.8.8]
 
 ### Fixes
