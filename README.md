@@ -1,5 +1,5 @@
 ---
-description: Use this documentation to get started with the JetBrains plugin.
+description: Use this documentation to get started with the JetBrains plugin.    
 ---
 
 # JetBrains plugins
